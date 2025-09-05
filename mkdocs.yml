@@ -31,7 +31,9 @@ nav:
   - 1. Desenho de Software (Base):
     - Introdução: Base/Introducao.md
     - 1.1. Design Sprint: Base/Design-sprint/DesignSprint.md
-    - 1.2. Artefatos Generalistas: Base/Artefatos-generalistas/ArtefatosGeneralistas.md
+    - 1.2. Artefatos Generalistas: 
+      - Visão Geral: Base/Artefatos-generalistas/ArtefatosGeneralistas.md
+      - Tabela 5W2H: Base/Artefatos-generalistas/5W2H.md
     - 1.3. Modelagem BPMN: Base/BPMN/ModelagemBPMN.md
     - 1.4. Participações: Base/Participacoes/Participacoes.md
     - 1.5. Iniciativas Extras:

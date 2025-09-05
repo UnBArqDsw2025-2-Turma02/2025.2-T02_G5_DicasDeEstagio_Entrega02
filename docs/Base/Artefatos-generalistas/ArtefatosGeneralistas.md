@@ -10,6 +10,7 @@ Para fundamentar nossa aplicação e compreender melhor o que é nosso produto, 
 - **Rich Picture**  
 - **Diagrama Causa–Efeito/Ishikawa**  
 - **Mapa Mental**
+- **[Tabela 5W2H](5W2H.md)**
 
 
 
@@ -100,6 +101,14 @@ A identificação dessas causas permite direcionar esforços para **reduzir a bu
 ![Mapa Mental — G5](../../assets/imgs/MapaMental.png)
 
 **Uso do Mapa Mental:** Além do Desenho inspirado no Rich Picture e do Ishikawa, também elaboramos um **Mapa Mental**. Escolhemos esse artefato por ser intuitivo e de fácil construção, principalmente em uma etapa inicial do projeto. O mapa mental nos ajudou a organizar ideias de forma rápida, visualizar conexões entre conceitos e levantar hipóteses sem nos prender a estruturas rígidas.
+
+---
+
+## Tabela 5W2H
+
+Como artefato generalista complementar, desenvolvemos uma **[Tabela 5W2H](5W2H.md)** que consolida sistematicamente o entendimento sobre o projeto DicasDeEstagio. Esta ferramenta de planejamento estrutura as informações através das questões fundamentais: **What** (O que), **Why** (Por que), **When** (Quando), **Where** (Onde), **Who** (Quem), **How** (Como) e **How Much** (Quanto).
+
+A tabela 5W2H integra os insights obtidos do Rich Picture, Diagrama Ishikawa e Mapa Mental, traduzindo-os em um formato executável e orientado à ação, servindo como referência central para alinhamento da equipe e guia estratégico para as próximas fases do projeto.
 
 
 ## Justificativas & Senso Crítico

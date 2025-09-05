@@ -51,6 +51,8 @@ Artefatos independentes de metodologia para compreensão sistêmica.
 
 - Mapa Mental: Organização conceitual do domínio
 
+- Tabela 5W2H: Sistematização estratégica do projeto
+
 ### [1.3. Modelagem BPMN](BPMN/ModelagemBPMN.md)
 Modelagem dos processos críticos do negócio.
 
