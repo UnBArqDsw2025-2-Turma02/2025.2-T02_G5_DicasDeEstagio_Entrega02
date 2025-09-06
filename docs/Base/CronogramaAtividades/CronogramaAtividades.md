@@ -18,4 +18,4 @@
 
 | Versão | Data       | Descrição                                  | Autor(es)           | Revisor(es)       |
 | ------ | ---------- | ------------------------------------------ | --------------- | ---------------- |
-| 1.0    | 05/09/2025 | Versão inicial                             |[Daniel Ferreira Nunes](https://github.com/mach1r0) |  |
+| 1.0    | 05/09/2025 | Versão inicial                             |[Daniel Ferreira Nunes](https://github.com/mach1r0) | [Mateus](https://github.com/MVConsorte) |
